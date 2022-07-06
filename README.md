@@ -1,6 +1,6 @@
 
 ### Hey! 👋
-I'm Gulam Hussain, a front-end developer from India. Currently working at [@kisannetwork](https://kisannetwork.com)
+I'm Gulam Hussain, a front-end developer from India. Currently working at [@Quinn](https://quinn.live)
 
 ### Blog
 [https://gulamhussain.dev](https://gulamhussain.dev)
